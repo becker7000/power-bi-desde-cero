@@ -1,0 +1,19 @@
+
+Práctica 2 (después de importar)
+
+Corregir cada tabla proveniente de Google Sheets:
+1. Vista de informe
+2. Transformar datos
+3. Usar primera fila como encabezado
+
+Analizando columnas:
+1.  Vista
+2.  arcar 'Calidad de columnas'
+3.  Cliente ID
+4.  Marcar sólo nulos -> Aceptar
+5.  Quitar filtro en el panel derecho 'X Filas filtradas'
+6.  Desmarcar 'Calidad de columnas'
+7.  Marcar 'Distribución de columnas'
+8.  Desmarcar 'Distribución de columnas'
+9.  Marcar 'Perfil de columnas' (descriptores básicos)
+10. Marcar 'Precio Total' y analizar estadísticas

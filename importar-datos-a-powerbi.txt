@@ -1,0 +1,33 @@
+Conectando Power BI con un archivo de Excel
+
+1.  Abrir Power BI
+2.  Informe en blanco
+3.  Obtener datos (3 archivos)
+4.  Libro de Excel
+5.  tickets_2021
+6.  Tabla 1 (Sheet) 
+7.  Cargar
+8.  Ventana emergente cargar -> Cerrar
+9.  Repetir proceso para tickets_2022 y tickets_2023
+10. Renombrar las 3 tablas (Tickets 2021, Tickets 2022 y Tickets 2023)
+
+Conectando Power BI con una Google Sheet
+
+1.  Guardar base-de-datos en Google Drive como Hoja de cálculo de Google
+2.  Compartir -> Cualquiera que tenga el vínculo -> Lector
+3.  Copiar vínculo
+4.  En PBI -> Obtener datos
+5.  Más...
+6.  Buscar Google
+7.  Hojas de cálculo de Google
+8.  Conectar
+9.  Ventana emergente -> Continuar
+10. Pegar URL
+11. Iniciar sesión con Google
+12. Seleccionar todas las tablas (Categorías, Clientes, Productos, Sucursales y Vendedores)
+13. Cargar
+14. Verificar que las tablas aparecen en la sección, de datos
+15. Arreglar las cabeceras de las tablas
+
+ 
+

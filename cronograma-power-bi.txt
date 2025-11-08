@@ -1,0 +1,10 @@
+Primera clase Power BI (2 hrs y media)
+
+10:00 AM Introducción a Power BI
+10:10 AM Instalación
+10:20 AM Paseo por Power BI
+10:30 AM Intro a Power BI Desktop
+10:40 AM Importar datos desde Excel y Google Sheets
+11:00 AM Intro a Power Query Editor (Corrección de columnas y EDA)
+11:20 AM Ejercicio: mezclar las 3 tablas de tickets
+11:30 AM ...

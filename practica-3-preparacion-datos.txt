@@ -1,0 +1,14 @@
+Mezclando las 3 tablas de Tickets en una sola:
+1.  Eliminar en cada tabla 'X Tipo de dato cambiado'
+2.  Seleccionamos Tickets 2021
+3.  Anexar consultas
+4.  Anexar consultas para crear una nueva
+5.  Tres tablas o más
+6.  Tickets 2022 -> agregar
+7.  Tickets 2023 -> agregar
+8.  Aceptar
+9.  Reordenar Fecha Venta: descendente y ascendentes (ver el año)
+10. Quitar filtro
+11. Renombrar Anexar1 a Tickets
+12. Deshabilitar carga de Tickets 2021, 2022 y 2023 (click derecho en pestañas)
+13. Tickets -> Inicio -> Reducir filas -> Quitar filas -> Quitar filas en blanco
